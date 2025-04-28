@@ -92,7 +92,8 @@ Data was first imported into a **MySQL Server** database named `InsuranceDB`, an
 
 ## Screenshots
 
-![Screenshot 2025-04-28 094744](https://github.com/user-attachments/assets/06344046-4d19-43e2-a6b8-f5a330d0ba36)
+![Screenshot 2025-04-28 112928](https://github.com/user-attachments/assets/21ba6a19-b871-46a5-ab48-554b42966663)
+
 
 ## Author
 **Hasrat Hussain**  
